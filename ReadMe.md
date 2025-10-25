@@ -50,7 +50,7 @@ Create a `.env` file in the root directory and add your configuration:
 
 ```env
 PORT = 5000
-MONGODB_URI = 'mongodb://localhost:27017/url_shortner'
+MONGODB_URI = 'mongodb://localhost:27017/country_api'
 COUNTRIES_API_URL = 'https://restcountries.com/v2/all?fields=name,capital,region,population,flag,currencies'
 EXCHANGE_RATE_API_URL = 'https://open.er-api.com/v6/latest/USD'
 ```
